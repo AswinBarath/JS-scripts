@@ -1,0 +1,32 @@
+Join here
+--> https://frontendmasters.com/workshops/fundamentals-functional-js/#player
+
+
+
+Day 1
+
+9:00AM - Introduction, Expectations
+
+9:30AM - Objects & Exercise
+
+12:30PM - Arrays & Exercise
+
+2:00PM - Iteration & Transformation
+
+3:00PM - Functions
+
+
+
+Day 2
+
+9:00AM - Higher Order Fundtions
+
+11:00AM - Recursion
+
+2:00PM - Sorting
+
+3:00PM - Exercise & Wrap Up
+
+
+
+The unedited videos are posted at the above link at the end of each day.
