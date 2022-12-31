@@ -19,3 +19,14 @@ console.log(print); // greetings
 console.log(hello); // ReferenceError: "hello is not defined"
 // ----- Global Scope ---->
 
+// Example 2:-
+
+var a = 70;
+{
+    let a = 3;
+    var b = 10;
+    console.log(a);
+    console.log(b);
+}
+console.log(a);
+console.log(b);
