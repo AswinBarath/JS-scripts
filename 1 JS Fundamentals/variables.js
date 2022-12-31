@@ -12,6 +12,10 @@ var num3 = 30;
 num3 = 40;
 console.log(num3);
 
+// var re-declaration
+var num3 = 'repeat';
+console.log(num3);
+
 
 // let declaration with initialization
 let str1 = 'variable';
@@ -43,3 +47,5 @@ console.log(bool);
 // bool3 = true;
 // console.log(bool3); 
 // TypeError: "Assignment to constant variable"
+
+// Unlike var, let and const cannot be re-declared
