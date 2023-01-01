@@ -10,7 +10,7 @@
 | 6 | [Numbers][6] | Program that demonstrates the usage of Numbers |
 | 7 | [Strings][7] | Program that demonstrates the usage of Strings |
 | 8 | [Increment/Decrement Operators][8] | Program that demonstrates the usage of Increment/Decrement Operators |
-|  |  |  |
+| 9 | [Unary Operators][9] | Program that demonstrates the usage of Unary Operators |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -119,6 +119,7 @@
 [6]: https://github.com/AswinBarath/JS-scripts/blob/main/1%20JS%20Fundamentals/numbers.js "Numbers Program"
 [7]: https://github.com/AswinBarath/JS-scripts/blob/main/1%20JS%20Fundamentals/strings.js "Strings Program"
 [8]: https://github.com/AswinBarath/JS-scripts/blob/main/1%20JS%20Fundamentals/incrementDecrementOperators.js "Increment/Decrement Operators Program"
+[9]: https://github.com/AswinBarath/JS-scripts/blob/main/1%20JS%20Fundamentals/unaryOperators.js "Unary Operators Program"
 
 
 [101]: https://github.com/AswinBarath/JS-scripts/blob/main/Error%20Handling/errorHandling.js "Error Handling JS Script"
