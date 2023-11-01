@@ -1,6 +1,9 @@
 # [JS Scripts][0]
 
-- JavaScript practice scripts I have personally used to learn beginner to advanced JS concepts
+- JavaScript practice scripts, problem solutions and projects I have personally used to learn beginner to advanced JavaScript concepts:
+  - [JavaScript Concepts](#javascript-concepts)
+  - [JavaScript Problem Solving](#javascript-problem-solving)
+  - [JavaScript Projects](#javascript-projects)
 
 ## JavaScript Concepts
 
@@ -115,6 +118,15 @@
 | --- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Voting Age][1001]                     | Check if a given age is above 18 to determine if it's eligible for voting.                                             |
 | 2   | [Increasing or Decreasing Order][1002] | Determine and print "Increasing Order," "Decreasing Order," or "Neither" for three given numbers based on their order. |
+| 3   | [Largest among Three numbers][1003]    | Find the largest among the given three numbers.                                                                        |
+| 4   | [][]                                   |                                                                                                                        |
+| 5   | [][]                                   |                                                                                                                        |
+| 6   | [][]                                   |                                                                                                                        |
+| 7   | [][]                                   |                                                                                                                        |
+| 8   | [][]                                   |                                                                                                                        |
+| 9   | [][]                                   |                                                                                                                        |
+| 10  | [][]                                   |                                                                                                                        |
+| 11  | [][]                                   |                                                                                                                        |
 
 ---
 
@@ -142,5 +154,6 @@
 
 [1001]: https://github.com/AswinBarath/JS-scripts/blob/main/JS%20Problem%20Solving/1_votingAge.js "Voting Age"
 [1002]: https://github.com/AswinBarath/JS-scripts/blob/main/JS%20Problem%20Solving/2_IncreasingOrDecreasingOrder.js "Increasing or Decreasing Order"
+[1002]: https://github.com/AswinBarath/JS-scripts/blob/main/JS%20Problem%20Solving/3_Largest_Of_Three.js "Largest among Three numbers"
 
 ---
